@@ -28,10 +28,6 @@
     background-color: white;
   }
 
-  #banner-container {
-    display: none;
-  }
-
   #main-container,
   #form-box {
     margin-top: 0;
@@ -43,14 +39,5 @@
   #get-app-container {
     width: 100%;
     border: none;
-  }
-
-  footer {
-    width: 90%;
-  }
-
-  footer #footer-links {
-    flex-flow: row wrap;
-    justify-content: center;
   }
 }
